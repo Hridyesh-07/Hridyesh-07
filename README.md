@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hridyesh-07
+- 👋 Hi, I’m @Hridyesh Singh Bisht
 - 👀 I’m interested in games and coding
 - 🌱 I’m currently learning python
 - 📫 How to reach me:- hridyeshb8@gmail.com
